@@ -1,0 +1,38 @@
+:root {
+    --font-family-main: 'Inter';
+
+    --font-size-root: 16px;
+    --font-size-main: .875rem;
+    --font-size-output: 2.25rem;
+    --font-weight-output: 800;
+
+    --max-width-calculator: 15rem;
+
+    --padding-calculator-component: .25rem;
+    --padding-calculator-input-block: 1rem;
+    --padding-calculator-output: .25rem .5rem;
+
+    --color-bg: #ffffff;
+    --color-bg-gray: #F3F4F6;
+    --color-highlight: #5D5FEF;
+    --color-text-input: #000000;
+    --color-text-input-active: #ffffff;
+    --color-text-output: #111827;
+    --color-text-primary: #6B7280;
+    --color-text-primary-darker: #4D5562;
+    --color-border-primary: #E2E3E5;
+    --color-border-primary-darker: #C4C4C4;
+    --color-drop-field-active: #F0F9FF;
+
+    --opacity-disabled: .5;
+
+    --border-radius-small: .25rem;
+    --border-radius-medium: .3125rem;
+    --border-radius-big: .375rem;
+
+    --box-shadow: 0px .125rem .25rem rgba(0, 0, 0, .06), 0rem .25rem .375rem rgba(0, 0, 0, 0.1);
+
+    --cursor-not-allowed: url("../assets/images/svg/cursor-not-allowed.svg"), auto;
+    --cursor-drag: url("../assets/images/svg/cursor-drag.svg") 11 11, auto;
+    --cursor-pointer: url("../assets/images/svg/cursor-pointer.svg") 3 1, auto;
+}
